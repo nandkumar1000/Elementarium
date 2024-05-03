@@ -2,7 +2,7 @@
 
 Periodic Table 🧪
 
-#Abstract
+*Abstract
 This repository hosts a captivating, interactive web-based periodic table, crafted using a harmonious blend of HTML, CSS, and JavaScript. It provides an engaging platform for exploring the fundamental properties of chemical elements, including their names, symbols, atomic numbers, and atomic weights.
 
 ##Technology Stack
