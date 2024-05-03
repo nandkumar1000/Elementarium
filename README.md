@@ -2,13 +2,15 @@
 
 Periodic Table 🧪
 
-*Abstract
+*Abstract:-
+
 This repository hosts a captivating, interactive web-based periodic table, crafted using a harmonious blend of HTML, CSS, and JavaScript. It provides an engaging platform for exploring the fundamental properties of chemical elements, including their names, symbols, atomic numbers, and atomic weights.
 
-##Technology Stack
-HTML: Provides the structure and semantics for the periodic table layout.
-CSS: Styles the elements for a visually appealing presentation and ensures a seamless user experience.
-JavaScript: Enables interactive functionality, allowing users to interact with elements and view additional information.
+**Technology Stack:-
+
+1.HTML: Provides the structure and semantics for the periodic table layout.
+2.CSS: Styles the elements for a visually appealing presentation and ensures a seamless user experience.
+3.JavaScript: Enables interactive functionality, allowing users to interact with elements and view additional information.
 
 ##Features
 Responsive Design: The periodic table dynamically adapts its layout to suit different screen sizes, ensuring an optimal viewing experience across devices.
