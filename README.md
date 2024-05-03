@@ -9,7 +9,9 @@ This repository hosts a captivating, interactive web-based periodic table, craft
 **Technology Stack:-
 
 1.HTML: Provides the structure and semantics for the periodic table layout.
+
 2.CSS: Styles the elements for a visually appealing presentation and ensures a seamless user experience.
+
 3.JavaScript: Enables interactive functionality, allowing users to interact with elements and view additional information.
 
 ##Features
