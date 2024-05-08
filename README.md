@@ -2,6 +2,8 @@
 
 * Periodic Table 🧪
 
+* Greetings from this reprository In this repository, you can check every element's atomic number, atomic mass, and element name.
+
 # Abstract 🌌🔬
 
 Embark on an enthralling voyage through the cosmos of chemistry with our captivating web-based periodic table! 🚀 
